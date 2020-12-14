@@ -18,6 +18,7 @@ We hope that you do find our effort through our presentation, report, and what w
 Contributions:
 
 Collin: 
+
 Got the basic skeleton of the current source code implemented
 
 Helped alter the insertion method to compile the left/right rotations and color swap
@@ -36,6 +37,7 @@ Created the repo and the ‘READ.me’ explaining how to compile/run the code
 
 
 Andrew:
+
 Helped alter the insertion method to compile the left/right rotations and color swap
 
 Implemented the first part of the main() function of our current code that pushes the text file through a vector and uses a for loop with .begin() and .end() iterations to output a single line text with no unnecessary spaces or indentations
@@ -54,6 +56,7 @@ Helped Collin fix any syntax errors when need arose
 
 
 Enoch:
+
 Helped with research regarding Left Leaning Red Black trees and their history and design
 
 Contributed to the description of methods and concepts of 2-3-4 and red black trees that are described in the report and presentation
