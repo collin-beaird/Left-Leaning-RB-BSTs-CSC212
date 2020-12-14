@@ -5,7 +5,7 @@ Left-Leaning Red-Black BSTs
 
 Left Leaning Red-Black BSTs are a type of balance search tree that utilizes left-leaning red links/edges to indicate grouping within a node. Very similar to Red-Black trees and 2-3-4 trees with a difference in formatting and balancing.
 
-We have attached our source code in this repository as leanleft.cpp
+We have attached our source code in this repository as leanleft.cpp. For test cases, we included the Shrek movie script, the Gettysburg Address, and the Declaration of Independence.
 
 In order to compile, simply use CS50 IDE and use g++ leanleft.cpp -o "filename", where the "filename" can be whatever you please.
 
